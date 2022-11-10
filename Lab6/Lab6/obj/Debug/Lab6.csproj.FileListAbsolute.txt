@@ -1,0 +1,15 @@
+D:\1 курс\ООП\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\1 курс\ООП\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\1 курс\ООП\Lab6\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\1 курс\ООП\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+D:\1 курс\ООП\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+D:\1 курс\ООП\Lab6\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+D:\1 курс\ООП\Lab6\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+D:\1 курс\ООП\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+D:\1 курс\ООП\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\1 курс\ООП\Lab6\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\1 курс\ООП\Lab6\Lab6\Lab6\obj\Debug\Lab6.pdb
+D:\1 курс\ООП\Lab6\Lab6\Lab6\obj\Debug\Lab6.Form2.resources
+D:\1 курс\ООП\Lab6\Lab6\Lab6\obj\Debug\Lab6.Form3.resources
+D:\1 курс\ООП\Lab6\Lab6\Lab6\obj\Debug\Lab6.Form4.resources
+D:\1 курс\ООП\Lab6\Lab6\Lab6\obj\Debug\Lab6.Form5.resources
